@@ -10,7 +10,7 @@ This project was developed as part of a full-stack assessment to demonstrate fro
 ## 🚀 Live Demo
 
 - **Frontend (Web App):**  
-  https://your-frontend-url.vercel.app
+  https://hrms-lite-delta-seven.vercel.app/
 
 - **Backend API:**  
   https://hrms-backend-00z9.onrender.com/
